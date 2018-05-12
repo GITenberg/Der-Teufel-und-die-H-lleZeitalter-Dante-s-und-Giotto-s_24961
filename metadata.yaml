@@ -1,0 +1,34 @@
+_repo: Der-Teufel-und-die-H-lleZeitalter-Dante-s-und-Giotto-s_24961
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Köppen, Alfred
+    aliases:
+    - Alfred Köppen
+    - Koppen, Alfred
+    birthdate: 1869
+    deathdate: 1940
+    gutenberg_agent_id: '26834'
+    url: http://www.gutenberg.org/2009/agents/26834
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2008-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24961'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Devil in art'
+- !lcsh 'Hell'
+- !lcc 'N'
+- !lcsh 'Mythology'
+- !lcsh 'Christian ethics'
+title: "Der Teufel und die Hölle\r\nin der darstellenden Kunst von den Anfängen bis\
+  \ zum Zeitalter Dante's und Giotto's"
+url: http://www.gutenberg.org/ebooks/24961
